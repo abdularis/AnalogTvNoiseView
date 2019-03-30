@@ -1,6 +1,7 @@
 # AnalogTvNoiseView
 
 [![](https://jitpack.io/v/abdularis/AnalogTvNoiseView.svg)](https://jitpack.io/#abdularis/AnalogTvNoiseView)
+[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-Analog%20TV%20Noise%20View-green.svg?style=flat )]( https://android-arsenal.com/details/1/7594 )
 
 Analog TV noise effect for android.
 
